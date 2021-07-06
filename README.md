@@ -10,6 +10,7 @@
 - 📫 chandanasamineni23@gmail.com
 
 ---
+
 ### Connect with me:
 
 [<img align="left" alt="chandana.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -20,8 +21,6 @@
 <br/>
 
 ---
-
-<br/>
 
 ### Languages and Tools:
 
@@ -37,9 +36,14 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
 
 <br />
+
 <br />
 
 ---
+
+<br/>
+
+<img align="left" alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Chandana-23&show_icons=true&hide_border=true">
 
 [website]: https://chandanasam.pythonanywhere.com/
 [twitter]: https://twitter.com/ChandanaSamine4
