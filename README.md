@@ -45,7 +45,7 @@
 
 <img align="left" alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Chandana-23&show_icons=true&hide_border=true">
 
-[website]: https://chandanasam.pythonanywhere.com/
+[website]: https://chandana-portfolio.herokuapp.com/
 [twitter]: https://twitter.com/ChandanaSamine4
 [instagram]: https://www.instagram.com/__chandana_samineni__/
 [linkedin]: https://www.linkedin.com/in/chandana-samineni-556383195/
