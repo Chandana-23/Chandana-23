@@ -3,10 +3,6 @@
 
 ## I'm a CS student, Coder, Learner, and Developer!!
 
-
-- 🌱 I’m currently learning Blockchain
-- 👯 I'm looking for collabration
-- 🥅 Future Goals: Contribute more to Open Source projects
 - 📫 chandanasamineni23@gmail.com
 
 ---
